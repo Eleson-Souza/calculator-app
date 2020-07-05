@@ -12,6 +12,6 @@ Aplicação desenvolvida em React, trata de uma calculadora para cálculos aritm
 ![Demonstração da aplicação](/public/images/demo_calc.gif)
 
 ### Social
-[Repositórios GitHub](https://github.com/Eleson-Souza?tab=repositories)
+[Acesse meus repositórios GitHub](https://github.com/Eleson-Souza?tab=repositories)
 
-[LinkedIn](https://www.linkedin.com/in/eleson-souza-97735a174/)
+[Acesse meu LinkedIn](https://www.linkedin.com/in/eleson-souza-97735a174/)
